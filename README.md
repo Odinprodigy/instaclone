@@ -14,7 +14,7 @@ A simplified Instagram clone built by two developers.
 - HTML
 - CSS
 - JavaScript
-- React
+- Reacts
 - Node.js
 - Express
 - SQLite
